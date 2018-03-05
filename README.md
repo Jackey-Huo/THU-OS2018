@@ -1,7 +1,10 @@
 # THU-OS2018
 
-Hi guys, this is a repo for Jackey-Huo's OS homework. copy and paste are welcomed,
-but... you know that I'm a stupid student, so if you did so... I wish you good luck
+Hi guys, this is a repo for Jackey-Huo's OS homework.
+
+Copy and paste are welcomed, but... you know that I'm
+ a hopelessly stupid student, so if you did so... emmmm,
+ I wish you good luck
 
 ```
                                                                
